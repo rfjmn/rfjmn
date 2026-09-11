@@ -4,10 +4,6 @@ iOS Engineer
 
 Swift・SwiftUI・UIKitを中心に、iOSアプリの開発に取り組んでいます。
 
-## About
-
-iOSアプリの設計や非同期処理、認証機能に関心があります。
-
 ## Skills
 
 | Category | Technologies |
