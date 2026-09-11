@@ -6,6 +6,8 @@ Swift・SwiftUI・UIKitを中心に、iOSアプリの開発に取り組んでい
 
 ## Skills
 
+[![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
+
 | Category | Technologies |
 | --- | --- |
 | Language | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square) |
