@@ -6,7 +6,7 @@ Swift・SwiftUI・UIKitを中心に、iOSアプリの開発に取り組んでい
 
 ## Skills
 
-[![Apple, Swift, Linux, Git, GitHub](https://skillicons.dev/icons?i=apple,swift,linux,git,github)](https://skillicons.dev)
+[![Apple, Swift, Linux, Git, GitHub, GitHub Actions](https://skillicons.dev/icons?i=apple,swift,linux,git,github,githubactions)](https://skillicons.dev)
 
 | Category | Technologies |
 | --- | --- |
