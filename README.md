@@ -8,14 +8,14 @@ Swift・SwiftUI・UIKitを中心に、iOSアプリの開発に取り組んでい
 
 | Category | Technologies |
 | --- | --- |
-| Language | Swift |
-| iOS | SwiftUI, UIKit |
-| Asynchronous Programming | Swift Concurrency（async/await, Actor）, Combine, RxSwift |
-| Networking | URLSession |
-| Authentication | AuthenticationServices, Keychain |
-| Architecture | MVVM, VIPER |
-| Server Side | Vapor, Fluent, PostgreSQL |
-| Testing | Swift Testing, XCTest, XCUITest |
+| Language | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square) |
+| iOS | ![SwiftUI](https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square) ![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=flat-square) |
+| Asynchronous Programming | ![Swift Concurrency (async/await, Actor)](https://img.shields.io/badge/Swift%20Concurrency-7655A3?style=flat-square) ![Combine](https://img.shields.io/badge/Combine-7655A3?style=flat-square) ![RxSwift](https://img.shields.io/badge/RxSwift-7655A3?style=flat-square) |
+| Networking | ![URLSession](https://img.shields.io/badge/URLSession-147EFB?style=flat-square) |
+| Authentication | ![AuthenticationServices](https://img.shields.io/badge/AuthenticationServices-387A56?style=flat-square) ![Keychain](https://img.shields.io/badge/Keychain-387A56?style=flat-square) |
+| Architecture | ![MVVM](https://img.shields.io/badge/MVVM-596579?style=flat-square) ![VIPER](https://img.shields.io/badge/VIPER-596579?style=flat-square) |
+| Server Side | ![Vapor](https://img.shields.io/badge/Vapor-536B91?style=flat-square) ![Fluent](https://img.shields.io/badge/Fluent-536B91?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-536B91?style=flat-square) |
+| Testing | ![Swift Testing](https://img.shields.io/badge/Swift%20Testing-387A56?style=flat-square) ![XCTest](https://img.shields.io/badge/XCTest-387A56?style=flat-square) ![XCUITest](https://img.shields.io/badge/XCUITest-387A56?style=flat-square) |
 
 ## Talks
 
